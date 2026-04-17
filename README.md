@@ -10,7 +10,7 @@
 
 ## 快速开始
 1. 安装依赖：`pip install -r requirements.txt`
-2. 准备 cookies.txt（浏览器导出 Netscape 格式）
+2. 准备 cookies.txt（浏览器导出 Header String 格式）
 3. 运行 `python app.py`
 4. 访问 `http://localhost:5000`
 
